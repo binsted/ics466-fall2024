@@ -8,7 +8,6 @@ morea_outcomes:
 morea_readings:
   - reading-syllabus
 morea_experiences:
-  - experience-introduce-yourself
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/introduction/introduction.jpg

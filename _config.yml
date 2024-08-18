@@ -12,7 +12,6 @@ morea_navbar_items:
   - Outcomes
   - Readings
   - Experiences
-  - Assessments
   - Schedule
 logger_factory:
   Morea: error
