@@ -24,10 +24,10 @@ This course is intended for undergraduates in computer science or computer engin
 
 ICS 466 is structured as a sequential series of [modules](/modules), each taking a week or two to complete. Each module has the following structure:
 
-  * [Prerequisites](/prerequisites), describing skills you should have prior to starting the module.
-  * [Learning outcomes](/outcomes), describing the major goals for the module.
-  * [Readings and other online resources](/readings), providing background material.
-  * [Experiential learning activities](/experiences), providing a structured set of challenges enabling you to acquire mastery of material.
+  * [Prerequisites](/ics466-fall2024/prerequisites), describing skills you should have prior to starting the module.
+  * [Learning outcomes](/ics466-fall2024/outcomes), describing the major goals for the module.
+  * [Readings and other online resources](/ics466-fall2024/readings), providing background material.
+  * [Experiential learning activities](/ics466-fall2024/experiences), providing a structured set of challenges enabling you to acquire mastery of material.
 
 ## About the instructor
 
