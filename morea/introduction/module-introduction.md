@@ -3,6 +3,10 @@ title: "Introduction to ICS 466"
 published: true
 morea_coming_soon: false
 morea_id: introduction
+morea_prerequisites: 
+  - 314-configuration-management
+  - 314-development-environments
+  - 314-project-management
 morea_outcomes:
   - outcome-course-structure
 morea_readings:
