@@ -23,8 +23,8 @@ morea_assessments:
 morea_prerequisites:
 morea_type: module
 morea_icon_url: /morea/environment-configuration/logo.png
-morea_start_date: "2023-08-22"
-morea_end_date: "2023-08-25"
+morea_start_date: "2024-08-26"
+morea_end_date: "2024-09-02"
 morea_labels:
 morea_sort_order: 20
 ---

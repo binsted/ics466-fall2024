@@ -4,7 +4,7 @@ published: true
 morea_id: experience-install-github-desktop
 morea_summary: "Install and verify that you can run GitHub Desktop on your laptop"
 morea_type: experience
-# morea_start_date: "2023-08-23T12:00"
+# morea_start_date: "2024-08-25T23:00"
 morea_sort_order: 1
 morea_labels:
 ---
@@ -21,6 +21,3 @@ We recommend that you use GitHub desktop for this class:
 
 That said, if you want to use some other git client for this class, then you are free to do so.
 
-## Submission instructions
-
-You will be required to commit code to GitHub in class. 

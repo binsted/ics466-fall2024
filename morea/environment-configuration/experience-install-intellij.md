@@ -4,7 +4,7 @@ published: true
 morea_id: experience-install-intellij
 morea_summary: "Install and verify that you can run IntelliJ IDEA on your laptop"
 morea_type: experience
-# morea_start_date: "2023-08-23T12:00"
+# morea_start_date: "2024-08-25T23:00"
 morea_sort_order: 1
 morea_labels:
 ---
@@ -23,6 +23,4 @@ We recommend you use IntelliJ IDEA for this course:
 
 That said, you can use (say) VS Code if you have a strong preference.
 
-## Submission instructions
 
-You will be required to use your IDE in class. 
