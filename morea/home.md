@@ -7,13 +7,6 @@ published: true
 
 ## Welcome to ICS 466, Fall 2024
 
-<div class="alert alert-danger" role="alert" markdown="1">
-
-  <i class="fa-solid fa-circle-exclamation fa-xl"></i> **Warning: This website is not ready for student use.**
-  <hr/>
-  
-</div>
-
 ICS 466 Design for Mobile Devices is a project-based course about designing, implementing and testing software for mobile devices in general and cell phones in particular. It has writing-intensive and oral-communication foci.
 
 ## Who should take this course
