@@ -2,7 +2,7 @@
 morea_id: inclass-ftw-lean-canvas
 morea_type: reading
 title: "In Class: FTW Lean Canvas Brainstorm"
-published: true
+published: false
 morea_summary: "Come up with a lean canvas for a project idea"
 morea_sort_order: 10
 morea_labels: 

@@ -4,10 +4,11 @@ published: true
 morea_id: experience-dart-codelab-cheatsheet
 morea_summary: "Introduction to features of Dart not commonly seen in other programming languages."
 morea_type: experience
-morea_start_date: "2023-08-28T23:00"
+# morea_start_date: "2023-08-28T23:00"
 morea_sort_order: 1
 morea_labels:
   - Codelab
+  - Optional
 ---
 
 # Dart Codelab: Dart Cheatsheet
@@ -51,6 +52,4 @@ Creating this repo provides evidence that you worked on this codelab, and gives 
 
 ## Submission Instructions
 
-By the date and time listed in the Schedule page, please submit the URL to your GitHub repo in Laulima.
-
-Don't forget to make me (philipmjohnson) a collaborator so I can view your work!
+No submission required.

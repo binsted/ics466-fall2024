@@ -2,7 +2,7 @@
 morea_id: inclass-dart-practice
 morea_type: reading
 title: "Dart Practice"
-published: True
+published: false
 morea_summary: "Simple programming problems in Dart"
 morea_sort_order: 10
 morea_labels: 

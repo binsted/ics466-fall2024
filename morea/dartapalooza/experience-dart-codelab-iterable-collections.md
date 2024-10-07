@@ -4,10 +4,11 @@ published: true
 morea_id: experience-dart-codelab-iterable-collections
 morea_summary: "How to use collections that implement the Iterable class—for example List and Set"
 morea_type: experience
-morea_start_date: "2023-08-30T23:00"
+# morea_start_date: "2023-08-30T23:00"
 morea_sort_order: 1
 morea_labels:
   - Codelab
+  - Optional
 ---
 
 # Dart Codelab: Iterable Collections
@@ -51,6 +52,4 @@ Creating this repo provides evidence that you worked on this codelab, and gives 
 
 ## Submission Instructions
 
-By the date and time listed in the Schedule page, please submit the URL to your GitHub repo in Laulima.
-
-Don't forget to make me (philipmjohnson) a collaborator so I can view your work!
+No submission required.

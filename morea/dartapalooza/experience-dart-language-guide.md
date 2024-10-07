@@ -7,6 +7,7 @@ morea_type: experience
 morea_start_date: "2023-08-26T23:00"
 morea_sort_order: 1
 morea_labels:
+- Optional
 ---
 
 # Review the Dart Language Guide
@@ -37,6 +38,4 @@ Much of the Dart language looks like Javascript.  Here are some of the features 
 
 ## Submission Instructions
 
-By the time and date listed on the Schedule page, please submit to Laulima a short description (maximum three paragraphs) with your initial impressions of Dart and how it compares to "your favorite" programming language (i.e. Java, Javascript, Python, etc). 
-
-Please don't use ChatGPT to write your essay for you. Instead, just provide your honest reflection.  
+No submission required.

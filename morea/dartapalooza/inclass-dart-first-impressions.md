@@ -2,7 +2,7 @@
 morea_id: inclass-dart-first-impressions
 morea_type: reading
 title: "First impressions of Dart"
-published: True
+published: false
 morea_summary: "Dart vs. your favorite programming language"
 morea_sort_order: 10
 morea_labels: 

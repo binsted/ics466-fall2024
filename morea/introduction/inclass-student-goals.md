@@ -1,6 +1,6 @@
 ---
 title: "In Class: What are your goals?"
-published: true
+published: false
 morea_id: inclass-student-goals
 morea_type: experience
 morea_summary: "In-class work on student goals"
