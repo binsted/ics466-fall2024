@@ -1,8 +1,8 @@
 ---
-title: "Experience building FTW Wireframes"
+title: "Experience building Wireframes"
 published: true
 morea_id: experience-ftw-wireframes-1
-morea_summary: "Wireframe at least six screens for your FTW app"
+morea_summary: "Wireframe some screens for your app"
 morea_type: experience
 # morea_start_date: "2024-10-06"
 morea_sort_order: 1
@@ -10,11 +10,11 @@ morea_labels:
 - Optional
 ---
 
-# Experience building FTW Wireframes
+# Experience building  Wireframes
 
 ## Task
 
-For this task, you will design screens that illustrate the design, functionality, and innovative features of your FTW app. 
+For this task, you will design screens that illustrate the design, functionality, and innovative features of your app. 
 
 You should make a copy of the [FTW Wireframe Template](https://docs.google.com/presentation/d/1UFXI_fGII33qpM8p8cj4MXkgDq--Xm6dUFmsayjYDVo/edit?usp=sharing). 
 
